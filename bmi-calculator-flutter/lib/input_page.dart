@@ -50,7 +50,6 @@ class _InputPageState extends State<InputPage> {
                   child: GestureDetector(
                     onTap: () {
                       setState(() {
-                        print('xyz');
                         updateColour(1);
                       });
                     },
