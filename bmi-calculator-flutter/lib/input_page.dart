@@ -6,7 +6,6 @@ import 'icon_content.dart';
 import 'reusable_card.dart';
 import 'results_page.dart';
 import 'bottom_button.dart';
-import 'round_icon_button.dart';
 import 'calculator_brain.dart';
 
 const bottomContainerHeight = 80.0;
